@@ -334,3 +334,7 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Reuter](https://github.com/rjort)
+- Place: Bahia, Brazil
+- Bio: Student, developer
+- GitHub: [reuter](https://github.com/rjort)
